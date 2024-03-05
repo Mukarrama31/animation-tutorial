@@ -81,7 +81,10 @@ Another type that you can learn is rotate
 ```
 You can set the rotating degree according to your need.
 
-There are more options for animation like bounce, side rotate.
+There are more options for animation like bounce, side rotate. Check the demo to see 3 types 
+animation. 
 
+The link of my demo: 
+ https://mukarrama31.github.io/animation-tutorial/
 
 
