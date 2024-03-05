@@ -63,3 +63,25 @@ Slide from left:
     ```
 For slide in right you simply change the - value of from to + and it will slide from right. 
 
+Another type that you can learn is rotate 
+```Css
+    @keyframes rotate {
+        from {
+            transform: rotate(0);
+        }
+
+        to {
+            transform: rotate(360deg);
+        }
+    }
+    .rotate {
+        animation-name: rotate;
+        animation-timing-function: linear;
+    }
+```
+You can set the rotating degree according to your need.
+
+There are more options for animation like bounce, side rotate.
+
+
+
